@@ -1,5 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Caching an inverse of a matrix
+
+## Author - Subhadarshi Mishra
+## Date - 05/30/2018
 
 ## makeCacheMatrix creates a special "matrix" which is a list
 ## to 
